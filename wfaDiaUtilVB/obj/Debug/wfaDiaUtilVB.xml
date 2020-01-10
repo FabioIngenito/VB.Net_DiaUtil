@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+wfaDiaUtilVB
+</name>
+</assembly>
+<members>
+<member name="T:wfaDiaUtilVB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:wfaDiaUtilVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:wfaDiaUtilVB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:wfaDiaUtilVB.ClsDiaUtilVB.NumeroDiasUteis(System.Double,System.Nullable{System.DateTime},System.Boolean)">
+ <summary>
+ Calcula o número de dias mínimos para que a data caia em um dia útil.
+ </summary>
+ <param name="nDias">Dias mínumos base para cálculo.</param>
+ <param name="DataBase">Data do Cálculo.</param>
+ <param name="bSoma">Adiciona ou subtrai.</param>
+ <returns>Retorna o número de dias para cálculo.</returns>
+</member>
+<member name="M:wfaDiaUtilVB.ClsDiaUtilVB.EhFeriadoFinalDeSemana(System.DateTime)">
+ <summary>
+ Essa função pode ser substituída por uma consulta a uma base de dados.
+ </summary>
+ <param name="dtEntrada">Data a ser verificada.</param>
+ <returns>Retorna verdadeiro ou falso.</returns>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\bin\Debug\wfaDiaUtilVB.exe.config
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\bin\Debug\wfaDiaUtilVB.exe
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\bin\Debug\wfaDiaUtilVB.pdb
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\bin\Debug\wfaDiaUtilVB.xml
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\obj\Debug\wfaDiaUtilVB.vbprojAssemblyReference.cache
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\obj\Debug\wfaDiaUtilVB.FrmDiaUtilVB.resources
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\obj\Debug\wfaDiaUtilVB.Resources.resources
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\obj\Debug\wfaDiaUtilVB.vbproj.GenerateResource.cache
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\obj\Debug\wfaDiaUtilVB.exe
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\obj\Debug\wfaDiaUtilVB.xml
+C:\PROJETOS\VB\wfaDiaUtilVB\wfaDiaUtilVB\obj\Debug\wfaDiaUtilVB.pdb
