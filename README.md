@@ -1,4 +1,4 @@
-<h1 align="left">CALCULA DIAS UTEIS OU CONTABEIS</h1>
+<h1 align="left">CALCULA DIAS ÚTEIS OU CONTÁBEIS</h1>
 
 | :placard: Vitrine.Dev |  |
 | -------------  | --- |
